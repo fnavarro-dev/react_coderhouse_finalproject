@@ -12,4 +12,4 @@
 | ------| ------ | ------- |
 Francisco | Navarro | francisconavarroflores@gmail.com |
 
-[linkedin]("https://www.linkedin.com/in/francisco-navarro-flores/")
+[linkedin](https://www.linkedin.com/in/francisco-navarro-flores/)
